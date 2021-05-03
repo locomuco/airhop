@@ -10,7 +10,7 @@ Welcome to airhop's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   Intro <self>
+   Overview.rst
    ESP32.rst
    NRF32820.rst
 
